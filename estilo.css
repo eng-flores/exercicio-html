@@ -1,0 +1,39 @@
+.paragrafo{
+    text-indent: 50px;
+}
+.titulo1{
+    text-align: center;
+    border: 1px solid lightgreen;
+    box-shadow: 2px -2px 3px black;
+    background-color: rgb(190, 211, 231);
+    margin-top: 0px;
+    color: maroon;
+}
+#imagem1{
+    margin-left: 52%;
+    width: 600px;
+    height: 300px;
+    box-shadow: 2px 2px 10px black;
+}
+.tabela{
+    border: 1px solid orangered;
+    border-color: brown;
+   
+}
+.tabela1 {
+    width: 640px;
+    margin-bottom: 5px;
+  
+}
+#divi{
+    margin-left: 500px;
+}
+
+body{
+    background-color: rgba(83, 167, 182, 0.151);
+}
+
+.botao{
+    color: rebeccapurple;
+    text-align: center;
+}
